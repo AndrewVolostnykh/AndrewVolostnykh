@@ -1,19 +1,10 @@
 ## Hi there 👋
-<br/>
-<p align="center">
-  <img alt="stats" align="left" width="45%" margin="20%" src="https://github-readme-stats.vercel.app/api?username=AndrewVolostnykh&show_icons=true&theme=transparent&show=reviews&include_all_commits=true&text_color=606060&text_bold=false&custom_title=Stats"/>
-  <img alt="top langs" align="left" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewVolostnykh&layout=compact&exclude_repo=dynamic-details,spring-jdbc,omnika,bsa_spring_giphy,spring-concurrency-service-,ignorefiller,java-common-utils&custom_title=Languages"/>
-</p>
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+I am a self-taught Software Engineer from Ukraine, specializing in backend development. I also possess skills in frontend development and DevOps. Currently, I am working on developing a library for creating dynamic SQL queries based on parameters provided during requests.
+<br />
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AndrewVolostnykh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewVolostnykh&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 </a><img align="center" margin-left="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=AndrewVolostnykh&" alt="AndrewVolostnykh" />
 
