@@ -1,8 +1,8 @@
 ## Hi there 👋
 <br/>
 <p align="center">
-  <img alt="stats" align="left" width="45%" margin="20%" src="https://github-readme-stats.vercel.app/api?username=AndrewVolostnykh&show_icons=true&theme=transparent&show=reviews&include_all_commits=true&text_color=606060&text_bold=false"/>
-  <img alt="top langs" align="left" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewVolostnykh&layout=compact&exclude_repo=dynamic-details,spring-jdbc,omnika,bsa_spring_giphy,spring-concurrency-service-,ignorefiller,java-common-utils"/>
+  <img alt="stats" align="left" width="45%" margin="20%" src="https://github-readme-stats.vercel.app/api?username=AndrewVolostnykh&show_icons=true&theme=transparent&show=reviews&include_all_commits=true&text_color=606060&text_bold=false&custom_title=Stats"/>
+  <img alt="top langs" align="left" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewVolostnykh&layout=compact&exclude_repo=dynamic-details,spring-jdbc,omnika,bsa_spring_giphy,spring-concurrency-service-,ignorefiller,java-common-utils&custom_title=Languages"/>
 </p>
 
 </br>
