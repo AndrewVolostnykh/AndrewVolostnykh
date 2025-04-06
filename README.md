@@ -3,7 +3,7 @@
 I am a self-taught Software Engineer from Ukraine, specializing in backend development. I also possess skills in frontend development and DevOps. Currently, I am working on developing a library for creating dynamic SQL queries based on parameters provided during requests.
 <br />
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AndrewVolostnykh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewVolostnykh&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AndrewVolostnykh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewVolostnykh&layout=compact&theme=buefy&hide_border=true&exclude_repo=ignorefiller,microstack-cracking,spring-jdbc,java-common-utils,omnika,bsa_spring_giphy,spring-concurrency-service-" /></a> |
 | ------------- | ------------- |
 
 </a><img align="center" margin-left="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=AndrewVolostnykh&" alt="AndrewVolostnykh" />
