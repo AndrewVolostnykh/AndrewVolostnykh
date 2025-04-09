@@ -3,10 +3,11 @@
 I am a self-taught Software Engineer from Ukraine, specializing in backend development. I also possess skills in frontend development and DevOps. Currently, I am working on developing a library for creating dynamic SQL queries based on parameters provided during requests.
 <br />
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AndrewVolostnykh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&custom_title=Stats" alt="Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewVolostnykh&layout=compact&theme=buefy&hide_border=true&exclude_repo=ignorefiller,microstack-cracking,spring-jdbc,java-common-utils,omnika,bsa_spring_giphy,spring-concurrency-service-&custom_title=Languages" /></a> |
+| <a href="https://github.com/AndrewVolostnykh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AndrewVolostnykh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&custom_title=Stats" alt="Stats" /></a> | <a href="https://github.com/AndrewVolostnykh"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewVolostnykh&layout=compact&theme=buefy&hide_border=true&exclude_repo=ignorefiller,microstack-cracking,spring-jdbc,java-common-utils,omnika,bsa_spring_giphy,spring-concurrency-service-&custom_title=Languages&card_width=500" /></a> |
 | ------------- | ------------- |
 
-</a><img align="center" margin-left="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=AndrewVolostnykh&" alt="AndrewVolostnykh" />
+| <a href="https://github.com/AndrewVolostnykh"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AndrewVolostnykh&hide_border=true&theme=buefy" width=470px alt="Stats" /></a> | <a href="https://github.com/AndrewVolostnykh"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AndrewVolostnykh&days=30&bg_color=ffffff&custom_title=Contributions%20Graph&line=7957D5&point=FF4469&title_color=000000&grid=false&color=000000" width=500px /></a> |
+| ------------- | ------------- |
 
 </br>
 
