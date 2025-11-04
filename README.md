@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a self-taught Software Engineer from Ukraine, specializing in backend development. I also possess skills in frontend development and DevOps. Currently, I am working on developing a library for creating dynamic SQL queries based on parameters provided during requests.
+I am Software Engineer specializing in backend development. I also possess skills in frontend development and DevOps. Currently, I am working on developing a library for creating dynamic SQL queries based on parameters provided during requests.
 <br />
 
 | <a href="https://github.com/AndrewVolostnykh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AndrewVolostnykh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&custom_title=Stats" alt="Stats" /></a> | <a href="https://github.com/AndrewVolostnykh"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewVolostnykh&layout=compact&theme=buefy&hide_border=true&exclude_repo=ignorefiller,microstack-cracking,spring-jdbc,java-common-utils,omnika,bsa_spring_giphy,spring-concurrency-service-&custom_title=Languages&card_width=500" /></a> |
